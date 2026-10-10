@@ -1,0 +1,14 @@
+{
+  "count": 8,
+  "total": 181.75,
+  "categories": [
+    "audiobook",
+    "book",
+    "comic"
+  ],
+  "top3": [
+    "The Pragmatic Programmer",
+    "Clean Code",
+    "Watchmen"
+  ]
+}
