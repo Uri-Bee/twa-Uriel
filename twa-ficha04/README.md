@@ -5,6 +5,7 @@ npm install && npm run dev
 node check.js   # em silêncio = tudo certo
 
 O que está feito
+
 ----------------------------------------------------
 Projeto Vite (template vue), catalog.js, items.json e check.js vindos da Ficha 03 (sem alterações).
 src/App.vue com <script setup>, <template> e <style scoped>.
