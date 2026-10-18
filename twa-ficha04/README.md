@@ -13,11 +13,13 @@ Estado em ref: status, error, items, query, category, sortDir, selectedId.
 Derivados em computed: visible, cats, selected.
 Template: pesquisa (v-model), <select> com "All" + v-for, botão de ordenação (↓/↑), estados loading/error/ready com v-if/v-else-if/v-else, botão Retry, lista com v-for + :key="item.id", classe selected e secção de detalhe.
 Erro testado com URL a devolver 404 e com caminho errado (o catch apanha o Unexpected token '<').
+
 ---------------------------------------------------------------------------------------------------------------
 
 
 Declaração de IA:
 Usei IA (Claude) em casa para gerar a primeira versão do App.vue e rascunhar este README. Li e revi o código e as respostas abaixo.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Reflexão
